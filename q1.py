@@ -1,5 +1,4 @@
 # we can use this also (method 1)
-
 # l1 = [1,2]
 # l2 = [3,4]
 # l3 = [4,5]
